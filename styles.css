@@ -1,0 +1,123 @@
+
+*{
+	margin:0;
+	padding:0;
+}
+
+a{
+	color:blue;
+
+}
+
+ul{
+	list-style:none;
+	font-size:25px;
+}
+
+h3{
+	font-size:32px;
+	padding-bottom: 6px;
+}
+
+h2{
+	padding-top:10px;
+	padding-bottom:6px;
+	font-size:32px;
+}
+
+
+.clr{
+	clear:both;
+}
+
+.about-me{
+	padding-left: 5px;
+}
+
+
+.left-portion{
+	float:left;
+	background-color:grey;
+	width:80%;
+}
+
+.left-portion li{
+	padding-bottom: 6px;
+}
+
+.left-portion ul{
+	padding-bottom: 20px;
+}
+
+.right-portion{
+	float:left;
+	background-color:grey;
+	width:20%;
+	height:550px;
+}
+
+img{
+	width:100%;
+	height:auto;
+}
+
+.corey-haigh{
+	font-size:50px;
+	color:black;
+}
+
+.about-me{
+	padding-top:50px;
+	padding-right:5px;
+	font-size:25px;
+}
+
+
+.top-half{
+	overflow:hidden;
+	display:flex;
+	background-color: grey;
+}
+
+.indent-me{
+	padding-left: 5mm;
+	padding-bottom: 10px;
+}
+
+
+.kaggle-projects{
+	float:left;
+	width:33%;
+	border:1px black solid;
+	box-sizing:border-box;
+	flex: 1;
+
+}
+
+.youtube{
+	float:left;
+	border:1px black solid;
+	width:34%;
+	box-sizing:border-box;
+	flex: 1;
+}
+
+.exams{
+	float:left;
+	width:33%;
+	border:1px black solid;
+	box-sizing:border-box;
+	flex: 1;
+}
+
+.bottom-half{
+	background:grey;
+	overflow:hidden;
+	display: flex;
+}
+
+.footer{
+	height:50px;
+	background-color: grey;
+}
+

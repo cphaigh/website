@@ -6,12 +6,12 @@
 
 a{
 	color:blue;
-
 }
 
 ul{
 	list-style:none;
 	font-size:25px;
+
 }
 
 h3{
@@ -46,7 +46,7 @@ h2{
 }
 
 .left-portion ul{
-	padding-bottom: 20px;
+	padding-bottom: 20px;	
 }
 
 .right-portion{
@@ -87,24 +87,21 @@ img{
 
 .kaggle-projects{
 	float:left;
-	width:33%;
+	width:50%;
 	border:1px black solid;
 	box-sizing:border-box;
 	flex: 1;
 
 }
 
-.youtube{
-	float:left;
-	border:1px black solid;
-	width:34%;
-	box-sizing:border-box;
-	flex: 1;
+.kaggle-projects li{
+	padding-bottom: 5px;
 }
+
 
 .exams{
 	float:left;
-	width:33%;
+	width:50%;
 	border:1px black solid;
 	box-sizing:border-box;
 	flex: 1;

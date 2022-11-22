@@ -116,7 +116,7 @@ img{
 }
 
 .bottom-half{
-	background:grey;
+	background:black;
 	overflow:hidden;
 	display: flex;
 }

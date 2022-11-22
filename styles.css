@@ -108,13 +108,13 @@ img{
 }
 
 .bottom-half{
-	background:grey;
+	background:black;
 	overflow:hidden;
 	display: flex;
 }
 
 .footer{
 	height:50px;
-	background-color: black;
+	background-color: green;
 }
 

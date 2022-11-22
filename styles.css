@@ -116,14 +116,14 @@ img{
 }
 
 .bottom-half{
-	background:black;
+	background:grey;
 	overflow:hidden;
 	display: flex;
 }
 
 .footer{
 	height:50px;
-	background-color: blue;
+	background-color: grey;
 }
 
 .footer

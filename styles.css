@@ -110,7 +110,6 @@ img{
 .bottom-half{
 	overflow:hidden;
 	display: flex;
-	background-color:blue;
 }
 
 .footer{

@@ -1,5 +1,6 @@
 
 *{
+	background-color:grey;
 	margin:0;
 	padding:0;
 }
@@ -9,7 +10,6 @@ a{
 }
 
 ul{
-	background-color:grey;
 	list-style:none;
 	font-size:25px;
 
@@ -47,12 +47,14 @@ h2{
 
 .left-portion ul{
 	padding-bottom: 20px;	
+	margin: 0;
 }
 
 .right-portion{
 	float:left;
 	width:20%;
 	height:550px;
+	margin: 0;
 }
 
 img{
@@ -112,5 +114,7 @@ img{
 
 .footer{
 	height:50px;
+	overflow: hidden
 }
+
 
